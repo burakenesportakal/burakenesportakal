@@ -5,7 +5,7 @@
   <b>Unity & C++ | Gameplay Systems, AI & FSM | Game Jam Enthusiast</b>
 </p>
 
-### 👤 About Me
+### About Me
 - 🎓 3rd-year Software Engineering student at **Ankara University**.
 - 🤝 **Vice President** at Ankara University Computer Society, managing a 20+ member team and organizing technical events for 1000+ participants.
 
