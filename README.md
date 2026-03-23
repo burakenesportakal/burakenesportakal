@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student & Aspiring Gameplay Developer 🇹🇷</h3>
 
 <p align="center">
-  <b>Unity & C++ | Gameplay Systems, AI & FSM | Game Jam Enthusiast</b>
+  <b>Unity & C# | Unreal Engine & C++ | Gameplay Systems, AI & FSM | Game Jam Enthusiast</b>
 </p>
 
 ### About Me
