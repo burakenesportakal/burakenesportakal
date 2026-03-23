@@ -16,8 +16,16 @@
 
 ### 🏆 Game Jams & Hackathons
 I frequently participate in game jams, thriving under pressure to build creative and optimized prototypes.
-- 🥈 **2nd Place** - Istinye University Game Jam
-- 🎮 **Actively Participated:** Global Game Jam, METU GATES Jam, Ankara Jam, ANKÜ Game Jam, Jamination 8, Halloween Jam, Ostim Tech Jam, Ayaz Jam
+- 🥈 **2nd Place** - Halloween Game Jam
+- 🎮 **Actively Participated:
+- ** Global Game Jam,
+- METU GATES Jam,
+- Ankara Jam,
+- ANKÜ Game Jam,
+- Jamination 8,
+- Halloween Jam,
+- Ostim Tech Jam,
+- Ayaz Jam
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
