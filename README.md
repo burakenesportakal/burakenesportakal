@@ -9,14 +9,11 @@
 - 🎓 3rd-year Software Engineering student at **Ankara University**.
 - 🎯 Actively seeking a **Gameplay Developer Internship** to apply my skills in scalable architecture, AI, and pathfinding algorithms.
 - 🤝 **Vice President** at Ankara University Computer Society, managing a 20+ member team and organizing technical events for 1000+ participants.
-- 🕹️ *Fun fact:* When I'm not coding, I'm probably getting lost in the worlds of The Witcher 3, Elden Ring, or Baldur's Gate 3.
 
 ### 👨‍💻 Highlighted Projects
-- 🔭 **RPG Game (Unity, C#):** Developing quest, inventory, skill tree, and boss systems with FSM and modular design.
-- 🕹️ **DESYNC (C++, SDL3):** Engineered a custom pseudo-3D rendering engine and core gameplay loop under a 2 MB footprint.
-- 🌱 **METU GATES Jam:** Expanding a 25MB Unity game prototype developed solo over a single weekend.
-- 🤖 **Maze Solver (Unity, C#):** Built procedural maze generation and visualization tools using DFS, BFS, Dijkstra, and A* algorithms.
-- 🏃 **ANKU Runner:** Served as Team Lead for a campus-based runner game utilizing LIDAR data for realistic environment modeling.
+- 🔭 **[RPG Game (RPG-ERA)](https://github.com/burakenesportakal/RPG-ERA) - Unity, C#:** Developing quest, inventory, skill tree, and boss systems with FSM and modular design.
+- 🕹️ **[DESYNC](https://github.com/burakenesportakal/DESYNC) - C++, SDL3:** Engineered a custom pseudo-3D rendering engine and core gameplay loop under a 2 MB footprint.
+- 🤖 **[Maze Solver (PathFinder X)](https://github.com/burakenesportakal/MazeSolverWithUnity) - Unity, C#:** Built procedural maze generation and visualization tools using DFS, BFS, Dijkstra, and A* algorithms.
 
 ### 🏆 Game Jams & Hackathons
 I frequently participate in game jams, thriving under pressure to build creative and optimized prototypes.
