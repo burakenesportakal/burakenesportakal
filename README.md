@@ -1,15 +1,27 @@
 <h1 align="center">Hi 👋, I'm Burak Enes PORTAKAL</h1>
-<h3 align="center">A passionate game developer from Turkey 🇹🇷</h3>
+<h3 align="center">Software Engineering Student & Aspiring Gameplay Developer 🇹🇷</h3>
 
 <p align="center">
-  <b>3rd-Year Software Engineering Student | Game Developer </b>
+  <b>Unity & C++ | Gameplay Systems, AI & FSM | Game Jam Enthusiast</b>
 </p>
 
-### 👨‍💻 What I'm Working On
-- 🔭 I’m currently working on [RPG-ERA](https://github.com/burakenesportakal/RPG-ERA)
-- 🎮 I made a 2MB game using C++: [DESYNC](https://github.com/burakenesportakal/DESYNC)
-- 🤖 Check out my maze-solving game using DFS, BFS, Dijkstra, and A* algorithms: [PathFinder X](https://github.com/burakenesportakal/MazeSolverWithUnity)
-- 👯 I also actively collaborate on team projects, specifically focusing on server and service configurations.
+### 👤 About Me
+- 🎓 3rd-year Software Engineering student at **Ankara University**.
+- 🎯 Actively seeking a **Gameplay Developer Internship** to apply my skills in scalable architecture, AI, and pathfinding algorithms.
+- 🤝 **Vice President** at Ankara University Computer Society, managing a 20+ member team and organizing technical events for 1000+ participants.
+- 🕹️ *Fun fact:* When I'm not coding, I'm probably getting lost in the worlds of The Witcher 3, Elden Ring, or Baldur's Gate 3.
+
+### 👨‍💻 Highlighted Projects
+- 🔭 **RPG Game (Unity, C#):** Developing quest, inventory, skill tree, and boss systems with FSM and modular design.
+- 🕹️ **DESYNC (C++, SDL3):** Engineered a custom pseudo-3D rendering engine and core gameplay loop under a 2 MB footprint.
+- 🌱 **METU GATES Jam:** Expanding a 25MB Unity game prototype developed solo over a single weekend.
+- 🤖 **Maze Solver (Unity, C#):** Built procedural maze generation and visualization tools using DFS, BFS, Dijkstra, and A* algorithms.
+- 🏃 **ANKU Runner:** Served as Team Lead for a campus-based runner game utilizing LIDAR data for realistic environment modeling.
+
+### 🏆 Game Jams & Hackathons
+I frequently participate in game jams, thriving under pressure to build creative and optimized prototypes.
+- 🥈 **2nd Place** - Istinye University Game Jam
+- 🎮 **Actively Participated:** Global Game Jam, METU GATES Jam, Ankara Jam, ANKÜ Game Jam, Jamination 8, Halloween Jam, Ostim Tech Jam, Ayaz Jam
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
@@ -19,31 +31,16 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
-
-### 🕹️ Game Jams (2025–2026)
-- 🎮 Ankara Jam  
-- 🎮 ANKÜ Game Jam  
-- 🎮 Jamination 8  
-- 🎮 Halloween Jam  
-- 🎮 Global Game Jam  
-- 🎮 Ostim Tech Jam  
-- 🎮 Ayaz Jam  
-- 🎮 Metu Gates Jam  
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
