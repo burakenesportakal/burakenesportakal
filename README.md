@@ -2,7 +2,7 @@
 <h3 align="center">A passionate game developer from Turkey 🇹🇷</h3>
 
 <p align="center">
-  <b>3rd-Year Software Engineering Student | Game Developer | Backend Enthusiast</b>
+  <b>3rd-Year Software Engineering Student | Game Developer </b>
 </p>
 
 ### 👨‍💻 What I'm Working On
@@ -34,6 +34,16 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
+
+### 🕹️ Game Jams (2025–2026)
+- 🎮 Ankara Jam  
+- 🎮 ANKÜ Game Jam  
+- 🎮 Jamination 8  
+- 🎮 Halloween Jam  
+- 🎮 Global Game Jam  
+- 🎮 Ostim Tech Jam  
+- 🎮 Ayaz Jam  
+- 🎮 Metu Gates Jam  
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
