@@ -16,8 +16,8 @@
 
 ### 🏆 Game Jams & Hackathons
 I frequently participate in game jams, thriving under pressure to build creative and optimized prototypes.
-- 🥈 **2nd Place** - Halloween Game Jam
-- 🎮 **Actively Participated:**
+🥈 **2nd Place** - Halloween Jam
+🎮 **Actively Participated:**
 - Global Game Jam,
 - METU GATES Jam,
 - Ankara Jam,
