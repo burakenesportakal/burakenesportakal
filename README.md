@@ -14,23 +14,21 @@
 - 🕹️ **[DESYNC](https://github.com/burakenesportakal/DESYNC) - C++, SDL3:** Engineered a custom pseudo-3D rendering engine and core gameplay loop under a 2 MB footprint.
 - 🤖 **[Maze Solver (PathFinder X)](https://github.com/burakenesportakal/MazeSolverWithUnity) - Unity, C#:** Built procedural maze generation and visualization tools using DFS, BFS, Dijkstra, and A* algorithms.
 
-### 🏆 Game Jams & Hackathons
+### 🏆 Game Jams
 I frequently participate in game jams, thriving under pressure to build creative and optimized prototypes.
--🥈 **2nd Place** - Halloween Jam
--🎮 **Actively Participated:**
-- Global Game Jam,
-- METU GATES Jam,
-- Ankara Jam,
-- ANKÜ Game Jam,
-- Jamination 8,
-- Halloween Jam,
-- Ostim Tech Jam,
-- Ayaz Jam
+- 🎮 Ankara Jam
+- 🎮 ANKÜ Game Jam
+- 🎮 Jamination 8
+- 🎮 Halloween Jam
+- 🎮 Global Game Jam
+- 🎮 Ostim Tech Jam
+- 🎮 Ayaz Jam
+- 🎮 Metu Gates Jam
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
   <strong>Email:</strong> burak.enesportakal@gmail.com <br><br>
-  <a href="https://linkedin.com/in/burak-enes-portakal-591a322a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-enes-portakal-591a322a2/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/burak-enes-portakal-591a322a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -48,6 +46,6 @@ I frequently participate in game jams, thriving under pressure to build creative
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakenesportakal&theme=dark" alt="burakenesportakal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakenesportakal&theme=dark" alt="GitHub Streak Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakenesportakal&layout=compact&theme=dark" alt="Top Languages" />
 </p>
