@@ -7,7 +7,6 @@
 
 ### 👤 About Me
 - 🎓 3rd-year Software Engineering student at **Ankara University**.
-- 🎯 Actively seeking a **Gameplay Developer Internship** to apply my skills in scalable architecture, AI, and pathfinding algorithms.
 - 🤝 **Vice President** at Ankara University Computer Society, managing a 20+ member team and organizing technical events for 1000+ participants.
 
 ### 👨‍💻 Highlighted Projects
