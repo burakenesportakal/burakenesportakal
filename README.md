@@ -15,8 +15,7 @@
 - 🤖 **[Maze Solver (PathFinder X)](https://github.com/burakenesportakal/MazeSolverWithUnity) - Unity, C#:** Built procedural maze generation and visualization tools using DFS, BFS, Dijkstra, and A* algorithms.
 
 ### 🏆 Game Jams
-I frequently participate in game jams, thriving under pressure to build creative and optimized prototypes.
-- 🎮 Ankara Jam
+I frequently participate in game jams and deliver my best performance under pressure to develop creative and optimized prototypes. Game jams participated in during the 2025–2026 period:
 - 🎮 ANKÜ Game Jam
 - 🎮 Jamination 8
 - 🎮 Halloween Jam
